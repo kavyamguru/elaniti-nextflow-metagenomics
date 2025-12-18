@@ -1,0 +1,3 @@
+sample_id	read1	read2
+SOIL_TEST_01	test_data/soil/SOIL_TEST_01_R1.fastq.gz	test_data/soil/SOIL_TEST_01_R2.fastq.gz
+
