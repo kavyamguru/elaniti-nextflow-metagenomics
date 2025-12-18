@@ -12,3 +12,7 @@ nextflow/work/
 .vscode/
 .idea/
 
+# Sequencing data
+*.fastq
+*.fastq.gz
+
