@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "elaniti-nextflow-metagenomics"
+message: "If you use this workflow, please cite this repository."
+type: software
+authors:
+  - family-names: "G"
+    given-names: "Kavya"
+repository-code: "https://github.com/kavyamguru/elaniti-nextflow-metagenomics"
